@@ -1,4 +1,10 @@
-# Realtime Device Tracker
+# 🌐 Realtime Device Tracker
+
+- Built with Node.js, Express, Socket.io, EJS, and Leaflet.js  
+- Tracks multiple devices in real-time on a map  
+- Displays device locations with interactive markers  
+- Uses WebSockets for instant location updates  
+- Responsive and optimized for all screen sizes  
 
 How to Run This Project
 
@@ -26,6 +32,5 @@ How to Run This Project
      ```
      http://localhost:3000
      ```
-   - You will see the Realtime Device Tracker app running.
 
 Created by divxodyssey
